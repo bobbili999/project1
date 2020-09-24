@@ -1,3 +1,4 @@
+//its a prime program//
 class Prime
 {
 public static void main ( String args[])
